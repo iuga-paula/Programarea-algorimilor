@@ -1,0 +1,4 @@
+Anton Ileana,20,1200
+Popa Andreea Cristina,21,2300
+Jinga Denisa,24,1500
+Trandafir Denisa,21,1200
